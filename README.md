@@ -1,5 +1,5 @@
 # devbox-setup
-Sets up a distrobox container with VSCode, git, curl, wget, unzip, neovim, cmake, make, gcc, clang, gdb, python3, python3-pip, python3-virtualenv, nodejs, npm, dotnet-sdk-8.0, zsh, java-sdk and Rust"
+Sets up a fedora based distrobox with VSCode, git, curl, wget, unzip, neovim, cmake, make, gcc, clang, gdb, python3, python3-pip, python3-virtualenv, nodejs, npm, dotnet-sdk-8.0, zsh, java-sdk and Rust"
 All you should do is:
 
 ```
